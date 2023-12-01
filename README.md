@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aroonavikram@gmail.com**
 
-- ⚡ Fun fact **I think Learning New things motivates me a lot.**
+- ⚡ Motivation **I think Learning New things motivates me a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
