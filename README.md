@@ -3,13 +3,13 @@
   <!-- Typing Animation Header -->
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=AFEEEE¢er=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Aroona+Vikram!;CS+Student+%40+MAJU+%F0%9F%8E%93;Full-Stack+Developer+%E2%9A%9B%EF%B8%8F;Always+Learning...+%F0%9F%A7%A0" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=61DAFB¢er=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Aroona+Vikram!;CS+Student+%40+MAJU+%F0%9F%8E%93;Full-Stack+Developer+%E2%9A%9B%EF%B8%8F;Always+Learning...+%F0%9F%A7%A0" alt="Typing SVG - Aroona Vikram Introduction" />
     </a>
   </h1>
 
   <!-- Profile Views Badge -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=aroonaongithhub&label=Profile%20Visitors&color=00ced1&style=flat-square" alt="aroonaongithhub profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=aroonaongithhub&label=Profile%20Visitors&color=00CED1&style=flat-square" alt="aroonaongithhub profile views"/>
   </p>
 
   <!-- Main GIF -->
@@ -93,10 +93,10 @@ I'm a final-year **Computer Science student** based in Karachi 🇵🇰 with a d
 
 <!-- IMPORTANT: Replace `aroonaongithhub` with your actual GitHub username in the URLs below -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aroonaongithhub&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aroona's GitHub Stats" width="48%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroonaongithhub&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Aroona's Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aroonaongithhub&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&border_radius=10" alt="Aroona's GitHub Stats" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroonaongithhub&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&border_radius=10" alt="Aroona's Top Languages" width="48%"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aroonaongithhub&theme=radical&hide_border=true" alt="Aroona's GitHub Streak" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aroonaongithhub&theme=tokyonight&hide_border=false&border_radius=10" alt="Aroona's GitHub Streak" width="60%"/>
 </div>
 
 ---
