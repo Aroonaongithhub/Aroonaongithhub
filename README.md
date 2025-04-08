@@ -3,13 +3,13 @@
 <img align="right" alt="codding" width="400px" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroonaongithhub&label=Profile%20views&color=0e75b6&style=flat" alt="aroonaongithhub" /> </p>
 
-    🌱 I’m currently learning React
+🌱 I’m currently learning React
 
-    💬 Ask me about react,Gsap
+💬 Ask me about react,Gsap
 
-    📫 How to reach me aroonavikram@gmail.com
+📫 How to reach me aroonavikram@gmail.com
 
-    ⚡ Motivation I think Learning New things motivates me a lot.
+⚡ Motivation I think Learning New things motivates me a lot.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
