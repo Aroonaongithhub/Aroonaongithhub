@@ -27,6 +27,5 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aroonaongithhub&show_icons=true&locale=en&layout=compact" alt="aroonaongithhub" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aroonaongithhub&show_icons=true&locale=en" alt="aroonaongithhub" /></p>
-<a href="https://app.daily.dev/aroona"><img src="https://api.daily.dev/devcards/v2/eaGvlodvkKTqiXxaMq9rG.png?type=default&r=avd" width="356" alt="Aroona's Dev Card"/></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aroonaongithhub&" alt="aroonaongithhub" /></p>
 
