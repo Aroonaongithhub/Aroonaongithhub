@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#22223b;">👩‍💻 Hey there! I'm <span style="color:#3a5a40;">Aroona Vikram</span></h1>
-<h3 align="center" style="color:#4a4e69;">A passionate Computer Science student & coder from Pakistan 🇵🇰</h3>
+<h3 align="center" style="color:#4a4e69;">A passionate Software Engineer from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Girl Coding" width="360" />
