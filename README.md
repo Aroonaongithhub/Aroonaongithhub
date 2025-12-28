@@ -95,10 +95,7 @@ I enjoy building clean, maintainable user interfaces and learning how real-world
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aroonaongithhub&show_icons=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroonaongithhub&layout=compact" alt="Top languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aroonaongithhub&show_icons=true&theme=default" alt="Aroonaongithhub's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroonaongithhub&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aroonaongithhub&theme=default" alt="GitHub Streak" /> </p>
 
 ---
 
