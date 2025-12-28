@@ -1,92 +1,107 @@
-<h1 align="center" style="color:#22223b;">👩‍💻 Hey there! I'm <span style="color:#3a5a40;">Aroona Vikram</span></h1>
-<h3 align="center" style="color:#4a4e69;">A passionate Software Engineer from Pakistan 🇵🇰</h3>
+<h1 align="center">Hi, I'm Aroona Vikram 👋</h1>
+<h3 align="center">Software Engineer | Frontend & Web Development</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Girl Coding" width="360" />
+  Software Engineer with hands-on experience building client-facing web applications using React, Next.js, and TypeScript.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aroonaongithhub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Coding illustration" width="320" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aroonaongithhub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-<table align="center" width="100%">
-<tr>
-<td width="60%">
-  
-### 🌱 Currently Learning
-- React, Next.js, Typescript, and more modern web tools!
+## 👩‍💻 About Me
 
-### 💬 Ask Me About
+- Software Engineer based in Pakistan 🇵🇰  
+- Experience working on real MVPs and client-facing platforms  
+- Frontend-focused with React and Next.js  
+- Experienced in integrating REST APIs and collaborating with backend teams  
+- Comfortable working in agile environments  
+
+I enjoy building clean, maintainable user interfaces and learning how real-world systems work end to end.
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
 - React
 - Next.js
 - TypeScript
-- GSAP
-- Web Animation
+- JavaScript
+- HTML5, CSS3
+- Tailwind CSS
+- Material UI
+- Shadcn/ui
 
-### 📫 How to Reach Me
-- Email: aroonavikram@gmail.com
+### Backend & APIs
+- Node.js
+- Express
+- MongoDB
+- Firebase
+- REST APIs
+- Swagger / OpenAPI
 
-### ⚡ What Drives Me
-> _Learning new things motivates me every day!_
+### Automation & Tooling
+- n8n
+- Webhooks
+- Discord Bots
+- Authentik (academic project)
 
-</td>
-<td align="center" width="40%">
-  
-#### 🌐 Connect with Me
-
-<a href="https://twitter.com/aroona_vikram" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" />
-</a>
-<a href="https://linkedin.com/in/aroona-vikram" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" />
-</a>
-
-</td>
-</tr>
-</table>
+### Tools & Practices
+- Git & GitHub
+- Docker
+- Postman
+- Redux Toolkit
+- Agile / Scrum
+- Unit & Integration Testing
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧩 Projects
+
+### WorkStack (Capstone Project)
+**AI-Powered Open-Source Work Tooling Ecosystem**
+
+- Integrated multiple open-source tools using REST APIs and webhooks  
+- Implemented centralized identity and role-based access using Authentik  
+- Contributed to real-time interoperability between systems  
+- Participated in deployment and user acceptance testing  
+- Achieved 85% satisfaction from pilot users  
+
+---
+
+### Client-Facing Camp Management Platform (Grayhat)
+
+- Built frontend features and UI components based on product designs  
+- Implemented onboarding, camp creation, and parent registration flows  
+- Integrated REST APIs using Axios and RTK Query  
+- Fixed UI and integration issues to maintain application stability  
+
+---
+
+## 📫 Connect With Me
+
+- Email: **aroonavikram@gmail.com**
+- LinkedIn: [linkedin.com/in/aroona-vikram](https://linkedin.com/in/aroona-vikram)
+- Portfolio: [my-portfolio-fykc.vercel.app](https://my-portfolio-fykc.vercel.app)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aroonaongithhub&show_icons=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroonaongithhub&layout=compact" alt="Top languages" />
 </p>
 
 ---
 
-## 📈 GitHub Insights
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aroonaongithhub&show_icons=true&theme=default" alt="Aroonaongithhub's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroonaongithhub&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aroonaongithhub&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
-## ✨ Fun Facts
-
-- 🦸‍♀️ Coding is my superpower!
-- 🎨 I love mixing creativity with code.
-- 🌏 Always excited to connect with curious minds from around the world.
-
----
-
-<p align="center" style="color:#495057;">
-  <b>"Let's build something amazing together!"</b>
+  <i>Open to frontend and software engineering opportunities where I can continue building production web applications.</i>
 </p>
