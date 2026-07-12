@@ -1,104 +1,78 @@
 <h1 align="center">Hi, I'm Aroona Vikram 👋</h1>
-<h3 align="center">Software Engineer | Frontend & Web Development</h3>
+<h3 align="center">Software Engineer — AI Automation & Full Stack</h3>
 
 <p align="center">
-  Software Engineer with hands-on experience building client-facing web applications using React, Next.js, and TypeScript.
+  Software Engineer specialising in AI automation, Conversational AI, 
+  and React/Next.js — with production experience training conversational 
+  AI agents, building AI proof-of-concepts, and evaluating Voice AI 
+  platforms in a fintech environment.
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" alt="Coding illustration" width="320" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aroonaongithhub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="320" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- Software Engineer based in Pakistan 🇵🇰  
-- Experience working on real MVPs and client-facing platforms  
-- Frontend-focused with React and Next.js  
-- Experienced in integrating REST APIs and collaborating with backend teams  
-- Comfortable working in agile environments  
-
-I enjoy building clean, maintainable user interfaces and learning how real-world systems work end to end.
+- Software Engineer based in Karachi, Pakistan 🇵🇰
+- Currently co-developing an in-house Conversational AI platform at an InsurTech company
+- Conducted a 3-week Voice AI evaluation across Vapi, Retell AI, and Pipecat SDK
+- Built and trained a production Conversational AI agent (facilitated 2 insurance policy sales)
+- Built AI proof-of-concept workflows using n8n that shaped company AI strategy
+- Led WorkStack — an AI-powered open-source productivity suite (FYP, rated "Exceeds Expectations" by Grayhat)
+- Comfortable working across frontend, backend, and AI integration layers
 
 ---
 
 ## 🧰 Tech Stack
 
+### AI & Automation
+- Conversational AI, RAG Systems, LLM Integration, Prompt Engineering
+- Voice AI: Vapi, Retell AI, Pipecat SDK
+- n8n, Webhooks
+
 ### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5, CSS3
-- Tailwind CSS
-- Material UI
-- Shadcn/ui
+- React, Next.js, TypeScript, JavaScript
+- Tailwind CSS, Material UI, Shadcn/ui, Redux Toolkit
 
 ### Backend & APIs
-- Node.js
-- Express
-- MongoDB
-- Firebase
-- REST APIs
-- Swagger / OpenAPI
+- Node.js, Express, MongoDB, Firebase
+- REST APIs, RTK Query, Axios, Swagger/OpenAPI
 
-### Automation & Tooling
-- n8n
-- Webhooks
-- Discord Bots
-- Authentik (academic project)
+### Cloud & DevOps
+- AWS, Docker, Coolify, Git, GitHub, Bitbucket
 
-### Tools & Practices
-- Git & GitHub
-- Docker
-- Postman
-- Redux Toolkit
-- Agile / Scrum
-- Unit & Integration Testing
+### Tools
+- Postman, Jira, Agile/Scrum, Unit & Integration Testing
 
 ---
 
-## 🧩 Projects
+## 🧩 Featured Project
 
-### WorkStack (Capstone Project)
-**AI-Powered Open-Source Work Tooling Ecosystem**
+### WorkStack — AI-Powered Open-Source Work Tooling Ecosystem
+**Project Lead & Developer | Team of 3 | Industry collaboration with Grayhat**
 
-- Integrated multiple open-source tools using REST APIs and webhooks  
-- Implemented centralized identity and role-based access using Authentik  
-- Contributed to real-time interoperability between systems  
-- Participated in deployment and user acceptance testing  
-- Achieved 85% satisfaction from pilot users  
-
----
-
-### Client-Facing Camp Management Platform (Grayhat)
-
-- Built frontend features and UI components based on product designs  
-- Implemented onboarding, camp creation, and parent registration flows  
-- Integrated REST APIs using Axios and RTK Query  
-- Fixed UI and integration issues to maintain application stability  
+- Unified open-source productivity platform integrating Plane (tasks), 
+  Outline (docs), and Discord (communication) via REST APIs and webhooks
+- Researched, selected, and demoed Authentik for centralised RBAC — 
+  contributing to 40% reduction in employee onboarding time at Grayhat
+- Enhanced AI agent performance by improving MCP tool definitions 
+  and refining system prompts for accurate contextual retrieval
+- Zero critical bugs during UAT with 5 pilot users — 85% user satisfaction
+- Rated "Exceeds Expectations" by Grayhat
 
 ---
 
 ## 📫 Connect With Me
 
-- Email: **aroonavikram@gmail.com**
+- Email: aroonavikram@gmail.com
 - LinkedIn: [linkedin.com/in/aroona-vikram](https://linkedin.com/in/aroona-vikram)
 - Portfolio: [my-portfolio-fykc.vercel.app](https://my-portfolio-fykc.vercel.app)
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aroonaongithhub&show_icons=true&theme=default" alt="Aroonaongithhub's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aroonaongithhub&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aroonaongithhub&theme=default" alt="GitHub Streak" /> </p>
-
----
-
 <p align="center">
-  <i>Open to frontend and software engineering opportunities where I can continue building production web applications.</i>
+  <i>Open to AI automation and software engineering opportunities in Europe.</i>
 </p>
