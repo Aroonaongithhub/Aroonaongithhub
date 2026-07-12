@@ -69,7 +69,7 @@
 
 - Email: aroonavikram@gmail.com
 - LinkedIn: [linkedin.com/in/aroona-vikram](https://linkedin.com/in/aroona-vikram)
-- Portfolio: [my-portfolio-fykc.vercel.app](https://my-portfolio-fykc.vercel.app)
+<!-- Portfolio: [my-portfolio-fykc.vercel.app](https://my-portfolio-fykc.vercel.app) -->
 
 ---
 
